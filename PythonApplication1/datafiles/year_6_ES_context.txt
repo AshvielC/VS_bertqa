@@ -1,0 +1,45 @@
+context :  There are many different types of animals. For example, some are land animals while some are water animals and some are cold blooded, while others are warm blooded. However, we can put them into groups based on the common characteristics or features that they share. Animals can be classified as one of six distinct groups - mammals, birds, fish, amphibians, reptiles and insects. A mammal is characterized by an animal that breathes air, has a backbone, grows hair at some point during its life, is warm blooded and gives birth to live young. In addition, all female mammals have glands that can produce milk called mammary glands. Examples include dogs, pigs, bats and dolphins. Reptiles are animals that are characterized by animals that are cold blooded, have scales, lay eggs and have padded feet. Examples include Fiji Banded Iguana, Fiji Crested Iguana, Lizards and Gecko. Birds are characterized by animals that are warm blooded, have feathers, a beak, two legs, have scales and lay eggs. Amphibians are characterized by animals having cold blood which live in both land and water, have gills that develop lungs, lay eggs, have smooth skin and have webbed feet. Examples include Fiji tree frog, salamander, and cane toad. Insects are animals that have 3 body parts namely the head, thorax and the abdomen. Examples include bees, grasshopper, cockroach and butterfly. Fish are animals that are characterized as having cold blood, live in water, have gills, scales, fins and lay eggs. Cold-blooded animals, like reptiles, amphibians, and fish, become hotter and colder, depending on the temperature outside. For example, when the sun sets at night, the bodies of cold-blooded animals are cooler because it is less warm outside. When the sun is out, however, their bodies soak up the heat and become warmer. Mammals and birds are warm-blooded, which means that they can make their own body heat even when it is cold outside. Whether it is sunny and hot outside or there is a snowstorm, and it is very cold, warm blooded animals have body temperatures that usually stay the same or remain constant. Similarities between cold blooded animals and warm-blooded animals are that both animals live in the environment, and both have the mechanism and the metabolism to maintain and regulate the temperatures. Differences between them are that the cold-blooded animals cannot maintain their body temperature at constant levels while warm-blooded animals can maintain their body temperature at constant levels.    
+
+question :  How many types of animals are there ? 
+
+answer :  Animals can be classified as one of six distinct groups - mammals, birds, fish, amphibians, reptiles and insects. 
+
+question :  what are common characteristics of mammals ? 
+
+answer :  A mammal is characterized by an animal that breathes air, has a backbone, grows hair at some point during its life, is warm blooded and gives birth to live young. In addition, all female mammals have glands that can produce milk called mammary glands. Examples include dogs, pigs, bats and dolphins.  
+
+question :  what are common characteristics of reptiles ? 
+
+answer :  Reptiles are animals that are characterized by animals that are cold blooded, have scales, lay eggs and have padded feet. Examples include Fiji	Banded Iguana, Fiji Crested Iguana, Lizards and Gecko  
+
+question :  what are common characteristics of a bird ? 
+
+answer :  Birds are characterized by animals that are warm blooded, have feathers, a beak, two legs, have scales and lay eggs 
+
+question : what are common characteristics of amphibians ?  
+
+answer :  Amphibians are characterized by animals having cold blood which live in both land and water, have gills that develop lungs, lay eggs, have smooth 	skin and have webbed feet. Examples include Fiji tree frog, salamander, and cane toad. 
+
+question :  what are common characteristics of insects ?  
+
+answer :  Insects are animals that have 3 body parts namely the head, thorax and the abdomen. Examples include bees, grasshopper, cockroach and Butterfly. 	
+
+question :  what are common characteristics of fish ? 
+
+answer :   Fish are animals that are characterized as having cold blood, live in water, have gills, scales, fins and lay eggs  
+
+question :  what animals cannot maintain their body temperature ?  
+
+answer :   Cold-blooded animals, like reptiles, amphibians, and fish, become hotter and colder, depending on the temperature outside. For example, when the sun sets at night, the bodies of cold-blooded animals are cooler because it is less warm outside. When the sun is out, however, their bodies soak up the heat and become warmer. 
+
+question : what animals can maintain their body temperature ? 
+
+answer :  Mammals and birds are warm-blooded, which means that they can make their own body heat even when it is cold outside. Whether it is sunny and hot 	outside or there is a snowstorm, and it is very cold, warm blooded animals have body temperatures that usually stay the same or remain constant 
+
+question :  Can you name some similarities between warm and cold blooded animals ? 
+
+answer :  Similarities between cold blooded animals and warm-blooded animals are that both animals live in the environment, and both have the mechanism and 	the metabolism to maintain and regulate the temperatures. 
+
+question :  Can you name some differences between warm and cold blooded animals ? 
+
+answer :   Differences between them are that the cold-blooded animals cannot maintain their body temperature at constant levels while warm-blooded animals can maintain their body temperature at constant levels. 
