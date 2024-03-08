@@ -3,7 +3,7 @@ from transformers import BertTokenizer, BertForQuestionAnswering
 import torch
 
 # Read the data from the text file
-with open('/content/drive/MyDrive/bert_docs/year_6_ES_context.txt', 'r') as file:
+with open('AshvielC/VS_bertqa/PythonApplication1/datafiles/year_6_ES_context.txt', 'r') as file:
     data = file.read()
 
 # Split the data into contexts, questions, and answers
