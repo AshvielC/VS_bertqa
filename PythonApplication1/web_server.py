@@ -3,7 +3,7 @@ from transformers import BertTokenizer, BertForQuestionAnswering
 import torch
 
 app = Flask(__name__)
-
+# updated
 # Load the model and tokenizer
 model = BertForQuestionAnswering.from_pretrained("bert-large-uncased-whole-word-masking-finetuned-squad")
 tokenizer = BertTokenizer.from_pretrained("bert-large-uncased-whole-word-masking-finetuned-squad")
